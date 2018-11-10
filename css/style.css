@@ -1,0 +1,40 @@
+.navbar {
+    box-shadow: 2px 2px 5px #000;
+    opacity: 0.9;
+    color: #fff;
+}
+
+.nav-item .nav-link {
+    color: #fff;
+}
+
+.main-header {
+    position: relative;
+    background: url(../img/bg.jpg);
+    background-size: cover;
+    min-height: 500px;
+}
+
+.background-overlay {
+    background-color: rgba(48, 51, 107,0.6);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.librito {
+    width: 60%;
+}
+
+.form-control, .btn {
+    border-radius: 0%;
+}
+
+.team, footer {
+    background: #30336b;
+}
+
+.fotito {
+    width: 100%;
+}
